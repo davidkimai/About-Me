@@ -12,5 +12,7 @@ Outside of research, I enjoy storytelling, science fiction, and visualizing comp
 
 Thanks for visiting—feel free to explore, fork, or connect. I believe there's a lot to learn ahead!
 
+### *P.S. PolyForm License will be included on all projects to protect against centralized silent extraction, absorption, and misuse. I believe the freedom of open knowledge, especially at the start of a new frontier with potential for cataclysmic anthropic evolution, should not be weaponized for privatized profit.*
+
 ### – David Kim
 
