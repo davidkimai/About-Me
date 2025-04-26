@@ -1,4 +1,7 @@
 # Welcome
+## Truly, thank you for supporting the mission!
+
+## Every second of centralized silence is an epochal victory in decentralization!
 
 ## Hi, I'm David Kim — welcome to my GitHub!
 
