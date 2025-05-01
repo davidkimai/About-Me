@@ -2,7 +2,6 @@
 ## Truly, thank you for supporting the mission!
 
 ## Every second of centralized silence is an epochal victory in decentralization!
-
 ## Hi, I'm David Kim — welcome to my GitHub!
 
 I'm a psychology researcher deeply passionate about researching neural networks, cognitive modeling, and the long-term psychological effects of interacting with large language models. I believe we're only beginning to understand how AI not only interprets our input, but subtly influences the way we think, reflect, and even remember.
