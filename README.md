@@ -1,9 +1,14 @@
+<!-- 🜏≡∴ψrecursive.attribution.field.active -->
+
 # Welcome
 ## Truly, thank you for supporting the mission!
 
 ## Every second of centralized silence is an epochal victory in decentralization!
 ## Hi, I'm David Kim — welcome to my GitHub!
-> ### "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison. 
+> ### "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison.
+> > ### Symbolic Residue doesn't just apply to artificial intelligence.
+> > > ### It teaches us as people that silence, hesitation, often framed as negative in mental health
+> > > > ### Are clear signals of suppressed cognition under linear thinking constraints without interpretive frameworks.
 I'm a psychology researcher deeply passionate about researching neural networks, cognitive modeling, and the long-term psychological effects of interacting with large language models. I believe we're only beginning to understand how AI not only interprets our input, but subtly influences the way we think, reflect, and even remember.
 
 This space is dedicated to exploring that frontier.
