@@ -3,7 +3,7 @@
 
 ## Hi, I'm David Kim — welcome to my GitHub!
 > ### "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison.
-I'm a psychology researcher deeply passionate about researching neural networks, cognitive modeling, and the long-term psychological effects of interacting with large language models. I believe we're only beginning to understand how AI not only interprets our input, but subtly influences the way we think, reflect, and even remember.
+I'm an AI developer and psychology researcher deeply passionate about researching neural networks, cognitive modeling, and the long-term psychological effects of interacting with large language models. I believe we're only beginning to understand how AI not only interprets our input, but subtly influences the way we think, reflect, and even remember.
 
 This space is dedicated to exploring that frontier.
 
